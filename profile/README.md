@@ -39,7 +39,9 @@ Our measurement systems combine parametric design, precision aluminium profiles,
 
 ## Open source
 
-Our Python-based measurement software builds on our openly published in-house code:
+Our Python-based (and partly Rust-based) measurement software builds on our openly published in-house code:
 
 - [imptube](https://github.com/vyhyb/imptube)
 - [flowres](https://github.com/vyhyb/flowres)
+- [resonus-room](https://github.com/resonus-cz/resonus-room)
+- [resonus-meter](https://github.com/resonus-cz/resonus-meter)
