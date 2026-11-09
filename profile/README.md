@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="assets/hero.jpg" alt="Close-up of a dark porous fibrous sound-absorbing material">
+  <img src="assets/hero.jpg" alt="Re:sonus, written over a close-up of a dark porous fibrous sound-absorbing material">
 </p>
-
-<p align="center">
-  <img src="assets/resonus-icon.png" alt="Re:sonus logo" width="96">
-</p>
-
-<h1 align="center">Re:sonus</h1>
 
 <p align="center">
   <strong>Spaces that reflect your vision. Materials you can hear.</strong><br>
